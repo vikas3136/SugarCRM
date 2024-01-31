@@ -1,0 +1,28 @@
+2023-04-13 13:23:33,472  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-13 13:23:33,481  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-13 17:59:37,131  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-13 17:59:37,138  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-13 18:01:59,890  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-13 18:01:59,904  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-13 18:06:14,142  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-13 18:06:14,150  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-15 15:15:42,847  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-15 15:15:42,854  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-15 15:18:17,515  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-15 15:18:17,524  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-15 15:20:14,946  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-15 15:20:14,951  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-15 15:23:39,551  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-15 15:23:39,557  INFO [main] BaseClass:24 - initializing chrome browser
+2023-04-17 16:32:05,213  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-04-17 16:32:05,220  INFO [main] BaseClass:24 - initializing chrome browser
+2023-07-06 19:43:17,169  INFO [main] BaseClass:21 - reading property file for browqser name
+2023-07-06 19:43:17,178  INFO [main] BaseClass:24 - initializing chrome browser
+2023-07-06 20:03:56,370  INFO [main] BaseClass:21 - reading property file for browser name
+2023-07-06 20:03:56,377  INFO [main] BaseClass:24 - initializing chrome browser
+2023-07-06 20:09:38,992  INFO [main] BaseClass:21 - reading property file for browser name
+2023-07-06 20:09:38,999  INFO [main] BaseClass:24 - initializing chrome browser
+2023-07-06 20:17:50,260  INFO [main] BaseClass:21 - reading property file for browser name
+2023-07-06 20:17:50,267  INFO [main] BaseClass:24 - initializing chrome browser
+2023-08-08 20:13:43,638  INFO [main] BaseClass:21 - reading property file for browser name
+2023-08-08 20:13:43,648  INFO [main] BaseClass:24 - initializing chrome browser
